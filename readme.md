@@ -33,7 +33,7 @@ Users should be able to:
 
 ![Results summary component screenshot](./images/screenshot.png)
 
-> *(You can add a screenshot later. This section is optional.)*
+
 
 ### Links
 
